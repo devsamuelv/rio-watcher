@@ -1,4 +1,4 @@
-package RIO.Watcher;
+package com.devsamuelv.rio.watcher;
 
 import java.io.BufferedReader;
 import java.io.IOException;

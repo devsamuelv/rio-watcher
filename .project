@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>RIO-Watcher</name>
+	<name>rio.watcher</name>
 	<comment>Project RIO-Watcher created by Buildship.</comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1641932877044</id>
+			<id>0</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
